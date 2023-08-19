@@ -1,1 +1,7 @@
-  The micro-finance which now uses SVN want to slowly move their code disterbution to Github 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
